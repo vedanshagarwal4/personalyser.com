@@ -1,2 +1,1 @@
-# personalyser.com
-Personality Analyser
+# Personality-analyser
